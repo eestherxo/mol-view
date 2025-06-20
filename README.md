@@ -16,9 +16,9 @@ A web-based molecular visualization tool that allows users to input SMILES strin
 ---
 
 ## 🌐Live Demo 
-👉 [Try it on Streamlit](https://your-app-name.streamlit.app) 
+👉 [Try it on Streamlit](https://mol-view.streamlit.app) 
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=streamlit)](https://your-app-name.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=streamlit)](https://mol-view.streamlit.app)
 
 --- 
 
